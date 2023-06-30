@@ -20,7 +20,7 @@ Before Conducting the analysis, the data was scrapped from nobroker.in using sel
 <img src="https://i.ibb.co/tcxsc0T/Rental-Scrapping-4.png" alt="Rental-Scrapping-4" border="0">
 <p></p>
 <br>
-The dataset obtained from web scraping using **Selenium** library and saved using **Pandas** library in a CSV file consists of information related to real estate properties. It includes the following features:
+The dataset obtained from web scraping using <b>Selenium</b> library and saved using <b>Pandas</b> library in a CSV file consists of information related to real estate properties. It includes the following features:
 
 1. Type: This column represents the type of flats available, such as 1 BHK, 2 BHK, and so on.
 
@@ -51,10 +51,12 @@ Methodology:
 5. Reporting: Summarize findings, present key insights, and provide a comprehensive analysis of area-wise property dynamics, rental rates, deposit amounts, and the relationship between rent and the number of bedrooms.
 
 🔘 **Dashboard**<br>
+
 <img src="https://i.ibb.co/zSfBP2V/Dashboard.png" alt="Dashboard" border="0"><br>
 This insightful real estate dashboard features interactive charts displaying property distribution by flat type, the relationship between flat type and built-up area, average and maximum rents by furnishing type, and location-wise average, maximum, and minimum built-up areas and rents. It enables users to make informed decisions based on key market insights.
 
 🔘 **Visualizations**<br>
+
 <img src="https://i.ibb.co/xzKMTKB/EDA-1.png" alt="EDA-1" border="0">
 <p></p>
 <img src="https://i.ibb.co/7YbRPY2/EDA-2.png" alt="EDA-2" border="0">
