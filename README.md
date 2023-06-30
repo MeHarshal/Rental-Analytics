@@ -11,6 +11,7 @@ The aim of this study is to collect and analyze data from nobroker.in to provide
 🔘 **Data Description**
 
 Before Conducting the analysis, the data was scrapped from nobroker.in using selenium library and the scrapped data was processed and saved into csv file using pandas library.<br>
+
 <img src="https://i.ibb.co/pK91SvS/Rental-Scrapping-1.png" alt="Rental-Scrapping-1" border="0">
 <p></p>
 <img src="https://i.ibb.co/w6Xz0r5/Rental-Scrapping-2.png" alt="Rental-Scrapping-2" border="0">
@@ -64,11 +65,11 @@ This insightful real estate dashboard features interactive charts displaying pro
 <img src="https://i.ibb.co/WyHhqPV/EDA-3.png" alt="EDA-3" border="0">
 <p></p>
 <img src="https://i.ibb.co/3vPx31X/EDA-4.png" alt="EDA-4" border="0">
-<p></p>
+<p> There are more number of 1 BHK, 2 BHK property listed in website compared to other type of property.</p>
 <img src="https://i.ibb.co/YDNR4MP/EDA-5.png" alt="EDA-5" border="0">
-<p></p>
+<p>As the type of property is increasing, the built up area is also increasing.</p>
 <img src="https://i.ibb.co/cr3DV1z/EDA-6.png" alt="EDA-6" border="0">
-<p></p>
+<p>There is a linear relationship between number of bedrooms and rent, as number of bedrooms is increasing, rent is also increasing.</p>
 <img src="https://i.ibb.co/h2NqKLG/EDA-7.png" alt="EDA-7" border="0">
 <p></p>
 
