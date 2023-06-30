@@ -1,0 +1,300 @@
+Type,Area,Rent,Deposit,Built-up Area,Furnishing,No_of_Bedrooms
+1 BHK,Andheri West,25000,75000,850,Unfurnished,1
+1 BHK,Andheri East,32500,100000,580,Semi furnished,1
+1 BHK,Andheri West,10000,15000,500,Unfurnished,1
+1 BHK,Andheri East,35000,120000,644,Semi furnished,1
+1 BHK,Andheri West,45000,150000,513,Semi furnished,1
+2 BHK,Andheri West,85000,240000,900,Fully furnished,2
+1 BHK,Andheri West,32000,150000,600,Semi furnished,1
+1 BHK,Andheri West,25000,100000,450,Unfurnished,1
+2 BHK,Andheri East,45000,125000,710,Semi furnished,2
+1 BHK,Andheri East,38000,100000,500,Fully furnished,1
+1 RK ,Andheri East,18500,50000,350,Semi furnished,0
+2 BHK,Andheri East,60000,150000,1048,Semi furnished,2
+1 BHK,Andheri West,25000,75000,595,Unfurnished,1
+1 BHK,Andheri East,5000,5000,450,Fully furnished,1
+3 BHK,Andheri West,90000,300000,1300,Unfurnished,3
+2 BHK,Andheri West,60000,200000,742,Semi furnished,2
+1 RK ,Andheri West,18000,100000,300,Unfurnished,0
+1 BHK,Andheri East,60000,200000,508,Fully furnished,1
+2 BHK,Andheri West,45000,200000,700,Semi furnished,2
+2 BHK,Powai,60000,150000,725,Fully furnished,2
+1 RK ,Andheri East,6000,20000,180,Unfurnished,0
+3 BHK,Andheri East,140000,1000000,1261,Semi furnished,3
+2 BHK,Andheri West,70000,300000,1100,Fully furnished,2
+1 RK ,Andheri East,10000,40000,360,Fully furnished,0
+2 BHK,Andheri West,60000,200000,750,Fully furnished,2
+1 RK ,Jogeshwari West,19000,100000,360,Unfurnished,0
+1 RK ,Varsova ,25000,60000,250,Unfurnished,0
+1 RK ,Andheri East,12000,1,300,Semi furnished,0
+2 BHK,Marol,50000,200000,730,Fully furnished,2
+2 BHK,Andheri West,60000,200000,1152,Unfurnished,2
+1 RK ,Andheri East,46731,2000000,220,Semi furnished,0
+2 BHK,Andheri West,65000,150000,1000,Fully furnished,2
+2 BHK,Andheri West,75000,350000,1100,Fully furnished,2
+1 BHK,Andheri East,30000,100000,565,Semi furnished,1
+1 BHK,Andheri West,40000,150000,581,Semi furnished,1
+2 BHK,Andheri West,60000,180000,900,Fully furnished,2
+1 BHK,Jogeshwari West,25000,100000,350,Semi furnished,1
+2 BHK,Andheri East,50000,150000,880,Semi furnished,2
+1 BHK,Andheri West,40000,100000,700,Semi furnished,1
+1 RK ,Andheri West,9000,20000,250,Unfurnished,0
+1 BHK,Andheri East,5000,20000,555,Fully furnished,1
+1 BHK,Andheri East,40000,150000,500,Fully furnished,1
+1 RK ,Andheri West,15000,50000,225,Fully furnished,0
+1 BHK,Andheri East,45000,150000,614,Fully furnished,1
+1 BHK,Andheri East,22000,70000,450,Semi furnished,1
+1 RK ,Varsova ,15000,45000,287,Semi furnished,0
+1 RK ,Andheri West,8000,25000,200,Unfurnished,0
+2 BHK,Andheri West,40000,120000,798,Semi furnished,2
+1 BHK,Andheri East,20000,40000,480,Fully furnished,1
+1 BHK,Andheri East,35000,100000,265,Unfurnished,1
+1 BHK,Powai,30000,100000,600,Semi furnished,1
+1 RK ,Andheri East,9000,20000,180,Semi furnished,0
+1 BHK,Andheri East,20000,50000,250,Fully furnished,1
+1 RK ,Andheri East,12000,100000,160,Unfurnished,0
+2 BHK,Andheri East,75000,200000,1000,Fully furnished,2
+1 RK ,Andheri East,7600,250000,100,Semi furnished,0
+2 BHK,Andheri East,24000,41667,965,Fully furnished,2
+1 BHK,Andheri West,30000,75000,500,Semi furnished,1
+2 BHK,Andheri West,60000,250000,1190,Semi furnished,2
+1 BHK,Andheri East,38000,150000,525,Semi furnished,1
+1 BHK,Andheri West,40000,100000,700,Unfurnished,1
+2 BHK,Marol,62000,200000,1045,Fully furnished,2
+2 BHK,Andheri West,60000,200000,950,Semi furnished,2
+2 BHK,Andheri West,85000,350000,950,Fully furnished,2
+2 BHK,Andheri East,66500,200000,660,Fully furnished,2
+2 BHK,Andheri West,75000,300000,950,Fully furnished,2
+1 RK ,Jogeshwari West,12500,30000,200,Semi furnished,0
+1 BHK,Andheri East,45000,240000,525,Fully furnished,1
+2 BHK,Andheri West,42000,200000,950,Unfurnished,2
+2 BHK,Andheri East,65000,300000,905,Fully furnished,2
+1 BHK,Andheri West,14000,25000,595,Unfurnished,1
+1 BHK,Andheri West,35000,125000,500,Fully furnished,1
+1 RK ,Andheri West,7000,50000,200,Unfurnished,0
+1 BHK,Andheri East,37500,150000,550,Fully furnished,1
+2 BHK,Marol,49500,200000,600,Semi furnished,2
+1 BHK,Andheri East,30000,100000,600,Semi furnished,1
+1 RK ,Andheri East,15000,50000,225,Unfurnished,0
+1 RK ,Jogeshwari West,12500,30000,180,Unfurnished,0
+1 BHK,Andheri East,36000,150000,690,Semi furnished,1
+1 BHK,Andheri East,35000,250000,500,Semi furnished,1
+1 RK ,Andheri West,5000,50000,100,Unfurnished,0
+2 BHK,Goregaon West,65000,250000,908,Unfurnished,2
+2 BHK,Andheri East,70000,200000,740,Fully furnished,2
+2 BHK,Andheri East,60000,300000,1140,Semi furnished,2
+2 BHK,Jogeshwari West,10000,19998,1000,Fully furnished,2
+1 RK ,Andheri West,35,200000,400,Semi furnished,0
+2 BHK,Andheri West,75000,500000,665,Unfurnished,2
+1 BHK,Andheri West,45000,150000,450,Unfurnished,1
+1 RK ,Andheri East,8000,25000,200,Unfurnished,0
+2 BHK,Andheri East,47000,150000,580,Semi furnished,2
+2 BHK,Andheri East,60000,300000,1000,Fully furnished,2
+3 BHK,Goregaon West,75000,250000,1394,Semi furnished,3
+2 BHK,Andheri East,35000,150000,660,Unfurnished,2
+3 BHK,Andheri West,100000,400000,1280,Fully furnished,3
+1 RK ,Andheri East,15000,50000,280,Unfurnished,0
+1 RK ,Andheri East,23000,75000,225,Fully furnished,0
+1 BHK,Andheri East,46731,1500000,390,Semi furnished,1
+1 BHK,Andheri West,30000,100000,600,Unfurnished,1
+1 BHK,Andheri East,57000,200000,450,Unfurnished,1
+2 BHK,Andheri West,110000,350000,1296,Semi furnished,2
+2 BHK,Andheri East,70000,300000,800,Fully furnished,2
+2 BHK,Jogeshwari West,60000,300000,1000,Fully furnished,2
+1 BHK,Andheri West,30000,100000,400,Unfurnished,1
+2 BHK,Jogeshwari West,75000,400000,1000,Fully furnished,2
+1 RK ,Jogeshwari West,8000,50000,110,Unfurnished,0
+3 BHK,Andheri West,85000,300000,1700,Fully furnished,3
+1 BHK,Andheri East,30000,100000,562,Semi furnished,1
+2 BHK,Jogeshwari West,70000,200000,740,Fully furnished,2
+1 RK ,Andheri East,15000,50000,300,Unfurnished,0
+2 BHK,Andheri East,60003,180003,633,Semi furnished,2
+2 BHK,Andheri West,70000,250000,850,Fully furnished,2
+1 BHK,Andheri East,20000,40000,480,Fully furnished,1
+1 RK ,Jogeshwari West,10000,40000,150,Unfurnished,0
+1 BHK,Andheri West,65000,2000000,760,Semi furnished,1
+2 BHK,Powai,45000,100000,875,Unfurnished,2
+1 BHK,Jogeshwari East,36000,100000,600,Fully furnished,1
+1 BHK,Jogeshwari West,35000,100000,500,Fully furnished,1
+2 BHK,Jogeshwari West,70000,250000,900,Unfurnished,2
+1 BHK,Andheri East,20000,40000,480,Fully furnished,1
+3 BHK,Andheri West,147000,900000,1350,Fully furnished,3
+2 BHK,Andheri West,54000,200000,1080,Semi furnished,2
+1 BHK,Andheri West,21000,30000,490,Fully furnished,1
+1 BHK,Andheri West,24000,100000,400,Semi furnished,1
+1 BHK,Jogeshwari West,35000,200000,544,Fully furnished,1
+1 BHK,Jogeshwari West,36000,100000,630,Fully furnished,1
+1 RK ,Andheri West,17500,55000,225,Semi furnished,0
+2 BHK,Andheri East,62000,150000,590,Unfurnished,2
+2 BHK,Andheri East,55000,300000,750,Unfurnished,2
+1 BHK,Powai,35000,150000,555,Semi furnished,1
+1 RK ,Andheri East,10500,90000,180,Unfurnished,0
+2 BHK,Andheri West,45,100000,700,Unfurnished,2
+1 BHK,Andheri East,60000,300000,502,Fully furnished,1
+2 BHK,Andheri West,65000,250000,850,Fully furnished,2
+1 BHK,Andheri West,42000,125000,665,Fully furnished,1
+1 BHK,Andheri East,40000,180000,650,Fully furnished,1
+1 BHK,Andheri West,42000,120000,700,Fully furnished,1
+1 BHK,Andheri West,40000,200000,765,Unfurnished,1
+1 BHK,Andheri East,46731,1500000,269,Semi furnished,1
+2 BHK,Andheri East,50000,100000,520,Unfurnished,2
+1 RK ,Andheri East,24000,70000,350,Fully furnished,0
+1 BHK,Andheri West,15000,50000,565,Unfurnished,1
+1 BHK,Andheri West,48000,200000,600,Unfurnished,1
+2 BHK,Andheri East,50000,150000,762,Semi furnished,2
+1 BHK,Andheri East,20000,100000,300,Semi furnished,1
+1 BHK,Andheri West,45000,250000,480,Fully furnished,1
+1 RK ,Andheri East,10000,40000,360,Unfurnished,0
+1 RK ,Andheri West,46731,800000,250,Semi furnished,0
+2 BHK,Andheri West,70000,300000,1000,Fully furnished,2
+2 BHK,Andheri West,110000,500000,1361,Semi furnished,2
+2 BHK,Andheri East,60000,200000,1008,Semi furnished,2
+1 BHK,Andheri West,30000,200000,562,Unfurnished,1
+1 BHK,Marol,32000,100000,550,Semi furnished,1
+2 BHK,Andheri East,75000,200000,855,Semi furnished,2
+1 RK ,Andheri West,20000,50000,250,Semi furnished,0
+2 BHK,Andheri West,55000,150000,700,Fully furnished,2
+1 BHK,Andheri East,21000,40000,480,Fully furnished,1
+1 RK ,Andheri East,19000,50000,225,Semi furnished,0
+3 BHK,Andheri East,110000,200000,1010,Fully furnished,3
+1 RK ,Andheri West,33000,80000,240,Fully furnished,0
+4 BHK,Andheri East,180000,800000,1700,Fully furnished,4
+1 RK ,Andheri West,16000,50000,250,Unfurnished,0
+1 BHK,Andheri West,70000,200000,650,Fully furnished,1
+1 BHK,Andheri West,45000,150000,560,Semi furnished,1
+1 BHK,Andheri East,30000,65000,600,Semi furnished,1
+2 BHK,Andheri East,49000,150000,700,Fully furnished,2
+1 BHK,Andheri West,50000,200000,500,Unfurnished,1
+3 BHK,Andheri West,150000,900000,2400,Semi furnished,3
+2 BHK,Jogeshwari West,67000,250000,822,Fully furnished,2
+2 BHK,Andheri West,75000,250000,659,Unfurnished,2
+1 RK ,Jogeshwari West,17000,50000,260,Unfurnished,0
+1 BHK,Andheri East,20000,50000,400,Fully furnished,1
+2 BHK,Andheri East,46731,1000000,600,Unfurnished,2
+2 BHK,Andheri East,70000,300000,700,Semi furnished,2
+2 BHK,Andheri West,45000,150000,922,Fully furnished,2
+3 BHK,Jogeshwari West,60000,500000,1530,Unfurnished,3
+1 BHK,Powai,30000,120000,460,Semi furnished,1
+1 BHK,Andheri West,43000,120000,750,Semi furnished,1
+2 BHK,Andheri West,70000,250000,850,Fully furnished,2
+1 BHK,Andheri East,21000,60000,320,Semi furnished,1
+1 BHK,Andheri East,38000,100000,540,Semi furnished,1
+2 BHK,Andheri West,80000,250000,915,Fully furnished,2
+1 BHK,Andheri West,50000,200000,550,Semi furnished,1
+2 BHK,Andheri West,56000,150000,1000,Semi furnished,2
+2 BHK,Andheri East,65000,330000,930,Fully furnished,2
+1 RK ,Andheri East,16000,50000,300,Unfurnished,0
+1 BHK,Jogeshwari West,45000,150000,630,Semi furnished,1
+1 BHK,Andheri West,7000,7000,400,Fully furnished,1
+1 BHK,Andheri East,30000,100000,600,Fully furnished,1
+1 BHK,Andheri East,22000,60000,270,Semi furnished,1
+1 BHK,Andheri West,55000,200000,550,Fully furnished,1
+1 RK ,Jogeshwari West,11000,60000,250,Unfurnished,0
+1 RK ,Andheri West,12000,50000,182,Unfurnished,0
+1 BHK,Andheri East,57000,250000,506,Semi furnished,1
+1 BHK,Andheri East,25000,70000,570,Semi furnished,1
+3 BHK,Andheri West,150000,500000,1400,Fully furnished,3
+1 BHK,Jogeshwari West,55000,250000,450,Fully furnished,1
+1 RK ,Jogeshwari West,10000,10000,300,Fully furnished,0
+1 BHK,Marol,24000,100000,420,Unfurnished,1
+1 RK ,Andheri East,20000,50000,500,Semi furnished,0
+1 BHK,Jogeshwari West,40000,170000,400,Semi furnished,1
+2 BHK,Andheri East,95000,450000,1100,Fully furnished,2
+1 BHK,Andheri West,40000,125000,500,Semi furnished,1
+1 BHK,Andheri East,30000,100000,620,Unfurnished,1
+1 RK ,Andheri East,12500,45000,400,Unfurnished,0
+2 BHK,Andheri West,54000,200000,1080,Semi furnished,2
+2 BHK,Andheri East,50000,200000,700,Fully furnished,2
+1 RK ,Andheri West,26000,120000,350,Semi furnished,0
+2 BHK,Andheri West,50000,100000,850,Semi furnished,2
+1 BHK,Varsova ,125000,500000,600,Fully furnished,1
+3 BHK,Andheri West,59000,150000,1000,Fully furnished,3
+1 BHK,Andheri West,21000,30000,490,Fully furnished,1
+1 BHK,Andheri West,35000,100000,450,Unfurnished,1
+3 BHK,Andheri West,110000,300000,1280,Semi furnished,3
+2 BHK,Andheri East,65000,325000,1025,Fully furnished,2
+2 BHK,Andheri West,85000,200000,982,Fully furnished,2
+2 BHK,Andheri West,110000,300000,1200,Semi furnished,2
+1 BHK,Andheri West,46731,2500000,340,Semi furnished,1
+1 BHK,Andheri West,35000,200000,441,Unfurnished,1
+1 RK ,Andheri East,10000,40000,280,Semi furnished,0
+2 BHK,Andheri West,125000,300000,850,Semi furnished,2
+1 BHK,Andheri East,13000,50000,300,Semi furnished,1
+1 BHK,Andheri East,25000,75000,788,Fully furnished,1
+2 BHK,Andheri West,80000,480000,720,Unfurnished,2
+3 BHK,Andheri West,120000,720000,1640,Fully furnished,3
+1 BHK,Andheri West,41000,200000,650,Fully furnished,1
+2 BHK,Andheri East,60000,100000,770,Fully furnished,2
+1 BHK,Andheri West,44000,100000,580,Unfurnished,1
+1 RK ,Powai,8500,45000,180,Semi furnished,0
+1 RK ,Andheri West,6000,25000,250,Unfurnished,0
+1 RK ,Andheri West,45000,150000,416,Fully furnished,0
+2 BHK,Andheri West,60000,200000,812,Fully furnished,2
+3 BHK,Goregaon West,80000,200000,1500,Fully furnished,3
+1 BHK,Andheri West,50000,200000,510,Semi furnished,1
+1 RK ,Andheri West,3500,3500,450,Semi furnished,0
+1 BHK,Andheri West,29000,150000,400,Semi furnished,1
+3 BHK,Andheri West,110000,200000,1300,Fully furnished,3
+4 BHK,Andheri West,15000,30000,2200,Unfurnished,4
+1 RK ,Andheri West,4000,4000,200,Unfurnished,0
+1 BHK,Andheri West,40000,100000,510,Fully furnished,1
+1 BHK,Andheri West,31000,100000,400,Semi furnished,1
+1 RK ,Andheri West,25000,50000,225,Semi furnished,0
+2 BHK,Andheri East,50000,150000,975,Fully furnished,2
+3 BHK,Varsova ,250000,750000,1800,Fully furnished,3
+3 BHK,Andheri West,85000,300000,1300,Fully furnished,3
+1 BHK,Powai,12000,30000,400,Semi furnished,1
+1 BHK,Varsova ,5500,5500,600,Fully furnished,1
+3 BHK,Andheri East,95000,200000,1400,Fully furnished,3
+3 BHK,Andheri West,100000,500000,1400,Fully furnished,3
+2 BHK,Andheri West,75000,200000,660,Semi furnished,2
+1 BHK,Andheri West,39500,250000,650,Fully furnished,1
+1 RK ,Jogeshwari West,10000,50000,200,Unfurnished,0
+1 RK ,Andheri East,5000,10000,200,Semi furnished,0
+1 RK ,Andheri East,18000,50000,400,Semi furnished,0
+1 RK ,Goregaon West,12000,50000,225,Semi furnished,0
+1 RK ,Andheri East,2500,5000,100,Fully furnished,0
+2 BHK,Andheri West,200000,1000000,1200,Fully furnished,2
+1 RK ,Andheri West,35000,100000,500,Fully furnished,0
+3 BHK,Andheri West,100000,500000,1108,Unfurnished,3
+1 BHK, Amboli,38000,150000,450,Fully furnished,1
+3 BHK,Andheri West,120000,400000,1300,Semi furnished,3
+1 BHK,Marol,2000,1700000,378,Unfurnished,1
+2 BHK,Jogeshwari West,80000,240000,820,Semi furnished,2
+1 BHK,Andheri West,45000,240000,453,Fully furnished,1
+4 BHK,Andheri West,150000,600000,1400,Semi furnished,4
+2 BHK,Andheri West,85000,350000,900,Fully furnished,2
+2 BHK,Andheri East,40000,150000,650,Semi furnished,2
+1 RK ,Jogeshwari West,8000,30000,290,Unfurnished,0
+1 RK ,Jogeshwari West,20000,50000,360,Unfurnished,0
+1 BHK,Andheri East,30000,85000,402,Semi furnished,1
+4 BHK,Andheri West,200000,800000,3400,Fully furnished,4
+2 BHK,Andheri East,45000,200000,900,Unfurnished,2
+2 BHK,Andheri East,60000,150000,700,Fully furnished,2
+2 BHK,Jogeshwari West,109000,300000,780,Unfurnished,2
+2 BHK,Andheri West,46731,200000,700,Semi furnished,2
+4 BHK,Marol,162000,500000,1620,Unfurnished,4
+1 RK ,Andheri East,12000,40000,300,Unfurnished,0
+1 RK ,Andheri East,9000,50000,200,Unfurnished,0
+2 BHK,Andheri West,65000,200000,750,Fully furnished,2
+3 BHK,Andheri East,70000,250000,1000,Semi furnished,3
+2 BHK,Andheri West,60000,150000,750,Fully furnished,2
+1 BHK,Andheri East,30000,70000,650,Semi furnished,1
+2 BHK,Andheri East,65000,330000,700,Fully furnished,2
+2 BHK,Andheri West,50000,100000,850,Unfurnished,2
+1 RK ,Andheri East,4000,10000,225,Unfurnished,0
+2 BHK,Andheri West,50000,100000,980,Semi furnished,2
+1 BHK,Andheri West,38000,200000,400,Semi furnished,1
+2 BHK,Andheri East,40000,150000,550,Semi furnished,2
+1 BHK,Andheri East,28000,50000,600,Fully furnished,1
+2 BHK,Andheri West,70000,200000,790,Fully furnished,2
+2 BHK,Andheri East,38000,75000,700,Fully furnished,2
+2 BHK,Andheri West,50000,300000,825,Semi furnished,2
+1 RK ,Varsova ,5000,5000,200,Fully furnished,0
+2 BHK,Andheri West,50000,200000,1000,Unfurnished,2
+1 BHK,Andheri East,55000,150000,500,Fully furnished,1
+1 BHK,Andheri East,25000,100000,360,Fully furnished,1
+1 BHK,Andheri West,25000,110240,470,Fully furnished,1
+1 RK ,Andheri East,14000,50000,300,Unfurnished,0
+1 BHK,Andheri East,15000,60000,680,Unfurnished,1
+1 BHK,Marol,3500,10000,590,Fully furnished,1
